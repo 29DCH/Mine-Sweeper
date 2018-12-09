@@ -1,5 +1,5 @@
 # Mine-Sweeper
-基于java swing的简单扫雷游戏,实现了基本逻辑.主要用到了floodfill算法和随机洗牌算法
+基于java swing的简单扫雷游戏,实现了基本逻辑.主要用到了floodfill(漫水填充)算法和knuth-shuffling-algorithm(Fisher–Yates也被称作高纳德(Knuth)随机置乱算法,随机洗牌算法)
 
 
 
